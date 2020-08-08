@@ -3,6 +3,9 @@ body {
 	padding: 0;
 	margin: 0;
 }
+div{
+	box-sizing: border-box;
+}
 header{
 	background: url(../img/first-bg.jpg) no-repeat center top / cover;
 	height: 600px;
@@ -12,5 +15,6 @@ header{
 	margin: 0 auto;
 }
 .logo{
+	margin-top: 41px;
 
 }
